@@ -1,0 +1,11 @@
+.Movies-right-column {
+    float: left;
+    width: 75%;
+    padding-left: 20px;
+    margin-top: 50px;
+}
+.card {
+    background-color:rgb(250, 237, 237);
+    padding: 20px;
+    margin-top: 20px;
+}

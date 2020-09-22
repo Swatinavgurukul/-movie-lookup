@@ -1,0 +1,18 @@
+.nav-header {
+    background-color: rgb(240, 182, 182);
+    padding : 5px;
+}
+.input-ml{
+    margin-left: 110px;
+}
+input {
+    padding : 8px;
+    width : 75%;
+    color : black;
+}
+
+button {
+    margin : 10px;
+    padding : 7.5px;
+    background-color: white;
+}
